@@ -25,7 +25,7 @@ function App() {
             <div className="footer">
                 <Typography.Title level={5} style={{color: "white", textAlign: "center" }}>
                     Crypto App <br/>
-                    &copy; All Rights Reserved.
+                    &copy; All Rights Reserved. Created by <a href="https://akd-adewumi.herokuapp.com">AKDA</a>
                 </Typography.Title>
                 <Space>
                     <Link to="/">Home</Link>
